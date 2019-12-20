@@ -1,6 +1,6 @@
 # Text classification
 
-## Where to get the dataset and word embeddings?
+## Where to get the dataset and word embeddings
 * Dataset: https://www.kaggle.com/cfpb/us-consumer-finance-complaints
 * Pretrained word embeddings: http://nlp.stanford.edu/data/glove.6B.zip
 
