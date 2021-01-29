@@ -6,9 +6,11 @@ The bank receives thousands of consumer complaints per week. The most important 
 ## Solution
 Customer complaint classifier with machine learning is the answer. It automatically routes the complaints to the right team, and analyze them for immediately actionable insights.
 
+## Techniques
+Pandas, Numpy, Scikit-Learn, Matplotlib, NLTK, Regular Expression, Tensorflow, LSTMs
+
 ## Descriptions
-Dataset and pretrained work embeddings can be found here.
-[Dataset](https://www.kaggle.com/cfpb/us-consumer-finance-complaints) |
+Pretrained work embeddings can be found here.
 [Pretrained word embeddings](http://nlp.stanford.edu/data/glove.6B.zip)
 
 ### `classifier_rnn.ipynb`
