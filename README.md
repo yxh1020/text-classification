@@ -1,12 +1,10 @@
 # Text classification
 
-## Objective
-Given the consumer complaint narrative, the task is to predict a category that the complaint is about.
+## Business Problem
+The bank receives thousands of consumer complaints per week. The most important part of providing good customer service is properly managing consumer complaints. So How can we respond quickly and effectively to all these customers? 
 
-## Motivation
-This is a multi-class text classification problem. Text classification can have a lot of practical uses. For example, sentiment analysis to help companies track how their brand is perceived online, routing support tickets to the right team based on the type of issue that the customer comment is about (like this project), classifying posts on social media to help social media companies track the topics a certain user is interested in for advertising purposes, etc.
-
-For all text classification tasks using LSTM, no matter what dataset we are working on, a biology dataset, a finance dataset, or social media posts,  the models use the same algorithm and have the same interface. So the code presented in this project can be easily applied to other use cases. The only thing we need to do is reframe the problem and figure out the output categories that the information extracted from the text can be mapped into.
+## Solution
+Customer complaint classifier with machine learning is the answer. It automatically routes the complaints to the right team, and analyze them for immediately actionable insights.
 
 ## Descriptions
 Dataset and pretrained work embeddings can be found here.
